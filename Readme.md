@@ -1,14 +1,175 @@
-# 💫 About Me:
-Hello Myself Harish<br>I am Currently working on React Project<br>I am Currently learning Fronted Development
+<h1 align="center">Hi 👋, I'm Harish Kumar</h1>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=250&section=header&text=Harish%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Software%20Engineering%20Student&descAlignY=65"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Harish1138&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harish1138&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1138&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer+in+Progress;Java+%7C+C%2B%2B+%7C+Python+Developer;Learning+DSA+and+Web+Development;Open+to+Internships"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Harish1138">
+<img src="https://komarev.com/ghpvc/?username=Harish1138&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Harish1138?tab=followers">
+<img src="https://img.shields.io/github/followers/Harish1138?logo=github&style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Harish1138&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 👨‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Passionate about Web Development & Problem Solving
+- 🌱 Currently learning Full Stack Development and DSA
+- 🚀 Building projects using Java, JavaScript and MongoDB
+- 💼 Open to Internship Opportunities
+
+---
+
+# 🛠️ Languages
+
+<p align="center">
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Frontend
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 🗄️ Database
+
+<p align="center">
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+</a>
+
+<a href="https://supabase.com/">
+<img src="https://skillicons.dev/icons?i=supabase" height="55"/>
+</a>
+
+</p>
+
+---
+
+# ☁️ Deployment
+
+<p align="center">
+
+<a href="https://vercel.com/">
+<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+</a>
+
+<a href="https://www.netlify.com/">
+<img src="https://skillicons.dev/icons?i=netlify" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harish1138&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1138&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harish1138&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harish1138&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish1138&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:harya0102@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/harriish_1137/">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" height="48"/>
+</a>
+
+<a href="https://github.com/Harish1138">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=footer"/>
+</p>
