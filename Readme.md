@@ -16,6 +16,7 @@
 <a href="https://github.com/Harish1138?tab=followers">
 <img src="https://img.shields.io/github/followers/Harish1138?logo=github&style=for-the-badge"/>
 </a>
+<br>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 </p>
