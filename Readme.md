@@ -124,9 +124,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Harish1138&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Harish1138&theme=tokyonight&cache_seconds=3600" />
 </p>
 
 ---
