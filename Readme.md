@@ -1,234 +1,129 @@
-<h1 align="center">Hi 👋, I'm Harish Kumar</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=280&section=header&text=Harish%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Powered%20Software%20Engineer&descAlignY=68"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI+Powered+Software+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+to+Internships"/>
-</p>
-
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Harish%20Kumar&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20in%20Training&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Harish1138">
-<img src="https://komarev.com/ghpvc/?username=Harish1138&style=for-the-badge&color=0e75b6"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;MERN+Stack+Learner+%F0%9F%92%BB;Building+with+React+%2B+Node.js+%E2%9A%99%EF%B8%8F;Exploring+MongoDB+%2B+Supabase+%F0%9F%97%84%EF%B8%8F;Deploying+on+Vercel+%2F+Netlify+%2F+Render+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/Harish1138?tab=followers">
-<img src="https://img.shields.io/github/followers/Harish1138?style=for-the-badge&logo=github"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Harish1138&color=7dd3fc&style=flat-square&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/Harish1138?label=Followers&style=flat-square&color=7dd3fc" />
+
+</div>
+
+<br/>
+
+## 🧑‍💻 Who I Am
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Harish+%F0%9F%91%8B" alt="Name intro" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>Title</b></td>
+    <td>CS Student</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><b>Status</b></td>
+    <td>Learning and building full-stack projects</td>
+  </tr>
+  <tr>
+    <td align="center">🤝</td>
+    <td><b>Open To</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Collaboration-7dd3fc?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Learning%20Opportunities-7dd3fc?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🧩</td>
+    <td><b>Core Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-7dd3fc?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-7dd3fc?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-7dd3fc?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-7dd3fc?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+
+**Backend / Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase" />
+
+**Cloud & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,render" />
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harish1138&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1138&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Harish1138&theme=nord&hide_border=true&border_radius=8&background=1a1b27&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harish1138&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish1138&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Harish1138/Harish1138/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harish-kumar-9527a11b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 About Me
-
-```yaml
-Name: Harish Kumar
-
-Education:
-  Integrated M.Tech Software Engineering
-
-Interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Full Stack Development
-  - Backend Development
-  - Open Source
-
-Currently Learning:
-  - Python
-  - Machine Learning
-  - DSA
-  - System Design
-
-Goal:
-  Become an AI Powered Software Engineer
-```
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,vercel,netlify"/>
-
-</p>
-
----
-
-# 🤖 AI & Data Science
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-</p>
-
----
-
-# 🛠 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harish1138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1138&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish1138&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harish1138&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📋 GitHub Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish1138&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish1138&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish1138&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harish1138&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
----
-
-# ⚡ GitHub Details
-
-<p align="center">
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harish1138&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish1138&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-<img src="https://streak-stats.demolab.com?user=Harish1138&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harish1138/Harish1138/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harish1138/Harish1138/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Snake Animation" src="https://raw.githubusercontent.com/Harish1138/Harish1138/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
-
-
----
-
-
-
-
-
-
-
-
-# 📫 Connect With Me
-
-<p align="center">
-
 <a href="mailto:harya0102@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Harish1138">
+</div>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<br/>
 
-</a>
-
-<a href="https://www.instagram.com/harriish_1137/">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-</p>
-
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Harish1138&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=140&section=footer"/>
-
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
