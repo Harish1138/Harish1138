@@ -15,7 +15,7 @@
 
 <br/>
 
-## 🧑‍💻 Who I Am
+##  Who I Am
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Harish+%F0%9F%91%8B" alt="Name intro" />
